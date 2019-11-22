@@ -23,6 +23,7 @@ public class CanalHandler {
                     jsonObject.put(propertyName,column.getValue());
                 }
 
+                //解析完之后, 发送kafka
                 MyKafkaSender.send(GmallConstant.KAFKA_TOPIC_ORDER,jsonObject.toJSONString());
             }
 

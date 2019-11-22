@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dw-chart/dw-chart.iml" filepath="$PROJECT_DIR$/dw-chart/dw-chart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gmall1111.iml" filepath="$PROJECT_DIR$/.idea/gmall1111.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall1111-canal/gmall1111-canal.iml" filepath="$PROJECT_DIR$/gmall1111-canal/gmall1111-canal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall1111-common/gmall1111-common.iml" filepath="$PROJECT_DIR$/gmall1111-common/gmall1111-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall1111-logger/gmall1111-logger.iml" filepath="$PROJECT_DIR$/gmall1111-logger/gmall1111-logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall1111-mock/gmall1111-mock.iml" filepath="$PROJECT_DIR$/gmall1111-mock/gmall1111-mock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall1111-publisher/gmall1111-publisher.iml" filepath="$PROJECT_DIR$/gmall1111-publisher/gmall1111-publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall1111-realtime/gmall1111-realtime.iml" filepath="$PROJECT_DIR$/gmall1111-realtime/gmall1111-realtime.iml" />
+    </modules>
+  </component>
+</project>
